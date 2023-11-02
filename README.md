@@ -15,7 +15,17 @@
 - Histogram was formatted to contain 5 bins, resulting in a left-skew appearance.
 - Scatterplot titled "Positive Income Correlation by Age", _age_ on the **x-axis**, _income_ on the **y-axis**
 - Scatterplot was the appropriate graph to showcase 2 numerical values that have a postive correlation   
-### Pivot Table [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Pivot_table_workshop_Jacinda_Lewis.xlsx)
+### Pivot Table [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Pivot_table_workshop_Jacinda_Lewis.xlsx) 
+In this exercise, I'm a data analysis for a laptop sales company that is evaluating the performance of sales associates from the previous 4 quarters.
+- Pivot Table 1: contained sum of sales for all associates, which was used to create a bar graph
+- Pivot Table 2: contained the count of sales per quarter for each associate, which was used to create a column graph
+
+ **The following questions were asked:**
+- Identify which sales associate had the most in sales.
+- Identify which sales associate had the least in sales.
+- Determine the total sales over all quarters.
+- Identify which sales associate had the most transactions in Q4.
+- Identify which sales associate had the most transactions in Q1.
 ### Data Cleaning and Error Checking [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Data_cleaning_Jacinda_Lewis%20.xlsx)
 ### Data Exploration [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Data_exploration_Jacinda_Lewis.xlsx)
 ### Data Products [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Data_model_Jacinda_Lewis.xlsx)
