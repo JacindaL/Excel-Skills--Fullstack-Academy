@@ -14,7 +14,7 @@
 - Histogram titled "Random Values Distribution", _bin numbers_ on **x-axis**, _frequency_ on the **y-axis**
 - Histogram was formatted to contain 5 bins, resulting in a left-skew appearance.
 - Scatterplot titled "Positive Income Correlation by Age", _age_ on the **x-axis**, _income_ on the **y-axis**
-- Scatterplot visualized 2 numerical values that have a postive slope  
+- Scatterplot was the appropriate graph to showcase 2 numerical values that have a postive correlation   
 ### Pivot Table [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Pivot_table_workshop_Jacinda_Lewis.xlsx)
 ### Data Cleaning and Error Checking [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Data_cleaning_Jacinda_Lewis%20.xlsx)
 ### Data Exploration [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Data_exploration_Jacinda_Lewis.xlsx)
