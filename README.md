@@ -27,6 +27,12 @@ In this exercise, I'm a data analysis for a laptop sales company that is evaluat
 - Identify which sales associate had the most transactions in Q4.
 - Identify which sales associate had the most transactions in Q1.
 ### Data Cleaning and Error Checking [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Data_cleaning_Jacinda_Lewis%20.xlsx)
+- Found and fix misspelled words
+- Removed extra spaces and characters across the dataset
+- Changed column titles and data to proper case
+- Highlighted duplicates under host_id using conditional formatting
+- Replace blank cells with "not applicable"
+- Change the rating column from general to a percentage
 ### Data Exploration [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Data_exploration_Jacinda_Lewis.xlsx)
 ### Data Products [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Data_model_Jacinda_Lewis.xlsx)
 ### Interpret and Report Data Findings [Link](https://github.com/JacindaL/Excel_Skills_Practice-FSA/blob/main/Report_sale_findings_Jacinda_Lewis.xlsx)
